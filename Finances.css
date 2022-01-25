@@ -1,0 +1,46 @@
+div {
+    text-align: center;
+    font-size: 18px;
+}
+.navbar {
+    text-align: left;
+    border: 5px solid green;
+    
+}
+.nav {
+    text-align: right;
+}
+.Dashboard {
+   border: 5px solid green;
+   text-align: center;
+   float:left;
+   margin: 20px;
+   width: 150px;
+}
+.Budget {
+    border: 5px solid green;
+    text-align: center;
+    float: left;
+    margin: 20px;
+    width: 150px;
+}
+.Checkbooks {
+    border: 5px solid green;
+    text-align: center;
+    float: left;
+    margin: 20px;
+    width: 150px;
+}
+.Money {
+    border: 5px solid green;
+    text-align: center;
+    float: left;
+   margin: 20px;
+   width: 150px;
+}
+.card { 
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+
